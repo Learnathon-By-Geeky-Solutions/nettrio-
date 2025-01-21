@@ -9,7 +9,7 @@
 - sakibmahmood98
 
 ## Project Description
-#Intelligent Real Estate Management System
+# Intelligent Real Estate Management System
 
 The Intelligent Real Estate Management System is a smart platform that makes buying, selling, and managing properties easier. It helps property owners, agents, and buyers by offering features like automated property listings, matching the right buyers with the right properties, and giving price suggestions based on market trends. The system also provides real-time updates and helps users make better decisions with simple and clear tools. It makes the whole real estate process faster, more organized, and easier for everyone.
 
